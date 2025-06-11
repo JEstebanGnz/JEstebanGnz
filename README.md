@@ -1,68 +1,69 @@
-🧑‍💻 Esteban González – Fullstack Developer
+# 🧑‍💻 Esteban González – Fullstack Developer
 
-    Bilingual Fullstack Developer from Colombia with 2+ years of experience creating impactful software for higher education and organizational needs. Passionate about building robust, scalable and user-centered systems using modern web technologies.
+> Bilingual Fullstack Developer from Colombia with 2+ years of experience creating impactful software for higher education and organizational needs. Passionate about building robust, scalable and user-centered systems using modern web technologies.
 
-🧠 About Me
+---
 
-    🇨🇴 Based in Colombia | Fluent in Spanish & English
+## 🧠 About Me
 
-    👨‍💻 Focused on Laravel, Vue.js, Next.js, Node.js
+- 🇨🇴 Based in Colombia | Fluent in Spanish & English  
+- 👨‍💻 Focused on Laravel, Vue.js, Next.js, Node.js  
+- ⚙️ Experience across full software lifecycle: planning, development, deployment & maintenance  
+- 🌱 Currently learning: Docker, Testing, GitHub Actions, AWS  
+- 🎯 Looking for my next challenge in a tech-driven and growth-oriented team
 
-    ⚙️ Experience across full software lifecycle: planning, development, deployment & maintenance
+---
 
-    🌱 Currently learning: Docker, Testing, GitHub Actions, AWS
+## 🛠 Technologies
 
-    🎯 Looking for my next challenge in a tech-driven and growth-oriented team
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,nodejs,react,ts,js,mysql,postgres,docker,linux,postman,spring" height="42" />
+</div>
 
-🛠 Technologies
-<div align="left"> <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,nodejs,react,ts,js,mysql,postgres,docker,linux,postman,spring" height="42" /> </div>
-🚀 Highlighted Projects
-🎯 University Affinity Information System
+---
 
-    Helps prospective students discover suitable academic programs via a customizable questionnaire. Provides dynamic results with visual graphs and downloadable Excel reports.
-    Stack: Laravel, Vue.js, MySQL
+## 🚀 Highlighted Projects
 
-📊 360° Teacher Evaluation App
+### 🎯 [University Affinity Information System](https://orientacionvocacional.unibague.edu.co/)
+> Helps prospective students discover suitable academic programs via a customizable questionnaire. Provides dynamic results with visual graphs and downloadable Excel reports.  
+**Stack:** Laravel, Vue.js, MySQL
 
-    Designed and built an evaluation system for teaching performance by roles. Enables feedback from various actors, weighted evaluations, and visualized results to inform improvement plans.
-    Stack: Laravel, Vue.js, MySQL
+### 📊 [360° Teacher Evaluation App](https://aletheia.unibague.edu.co/)
+> Designed and built an evaluation system for teaching performance by roles. Enables feedback from various actors, weighted evaluations, and visualized results to inform improvement plans.  
+**Stack:** Laravel, Vue.js, MySQL
 
-👥 Non-Teacher Evaluation System
+### 👥 [Non-Teacher Evaluation System](https://eda.unibague.edu.co/)
+> Full-featured HR evaluation system with roles, form builders, commitments tracking, and comprehensive reporting. Improves process control and monitoring.  
+**Stack:** Laravel, Vue.js, MySQL
 
-    Full-featured HR evaluation system with roles, form builders, commitments tracking, and comprehensive reporting. Improves process control and monitoring.
-    Stack: Laravel, Vue.js, MySQL
+### 📅 [Events Management Platform](https://eventos.unibague.edu.co/)
+> A complete event management system with real-time notifications, responsive design, secure authentication (NextAuth + Sanctum) and smooth client-side experience.  
+**Stack:** Laravel Sanctum, Next.js, Typescript, Material UI, MySQL
 
-📅 Events Management Platform
+### 🗳️ [Voting System – UNI2 Cooperative](https://uni2.unibague.edu.co)
+> Web-based voting platform integrated with Google Sheets API. Manages elections, slates and computes results via electoral quotient.  
+**Stack:** Laravel, Vue.js, Google Apps Script, MySQL
 
-    A complete event management system with real-time notifications, responsive design, secure authentication (NextAuth + Sanctum) and smooth client-side experience.
-    Stack: Laravel Sanctum, Next.js, Typescript, Material UI, MySQL
+### 📱 [MiUnibagué App (PWA)](https://mi.unibague.edu.co)
+> Progressive Web App for QR code-based identification and event attendance management. Generates reports and integrates with the university ecosystem.  
+**Stack:** Laravel, Vue.js, Vuetify, MySQL
 
-🗳️ Voting System – UNI2 Cooperative
+### 🔐 [EasyQR – Backend](https://easy-qr-app.vercel.app)
+> RESTful API built with clean architecture. Includes middleware for validation, custom responses, and auto-documentation via Swagger.  
+**Stack:** Spring Boot, MySQL, Swagger
 
-    Web-based voting platform integrated with Google Sheets API. Manages elections, slates and computes results via electoral quotient.
-    Stack: Laravel, Vue.js, Google Apps Script, MySQL
+### 📷 EasyQR – Frontend
+> Responsive QR code generator with IndexedDB for local storage and offline capability. Designed for durability and offline-first experiences.  
+**Stack:** React, TypeScript, IndexedDB
 
-📱 MiUnibagué App (PWA)
+---
 
-    Progressive Web App for QR code-based identification and event attendance management. Generates reports and integrates with the university ecosystem.
-    Stack: Laravel, Vue.js, Vuetify, MySQL
+## 🌐 Find Me Online
 
-🔐 EasyQR – Backend
+- [LinkedIn](https://www.linkedin.com/in/jestebangonzalez/)  
+- [My Portfolio (soon)](https://yourname.vercel.app)  
+- 📬 `jestebangonzalez@protonmail.com`
 
-    RESTful API built with clean architecture. Includes middleware for validation, custom responses, and auto-documentation via Swagger.
-    Stack: Spring Boot, MySQL, Swagger
+---
 
-📷 EasyQR – Frontend
-
-    Responsive QR code generator with IndexedDB for local storage and offline capability. Designed for durability and offline-first experiences.
-    Stack: React, TypeScript, IndexedDB
-
-🌐 Find Me Online
-
-    LinkedIn
-
-    My Portfolio (soon)
-
-    📬 jestebangonzalez@protonmail.com (ajústalo si tienes otro contacto profesional)
-
-    “Nothing worth and fulfilling in life comes easy. But with focus and consistency, everything is possible.”
+> _“Nothing worth and fulfilling in life comes easy. But with focus and consistency, everything is possible.”_
