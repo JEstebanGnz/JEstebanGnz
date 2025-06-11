@@ -48,21 +48,18 @@
 > Progressive Web App for QR code-based identification and event attendance management. Generates reports and integrates with the university ecosystem.  
 **Stack:** Laravel, Vue.js, Vuetify, MySQL
 
-### 🔐 [EasyQR – Backend](https://easy-qr-app.vercel.app)
-> RESTful API built with clean architecture. Includes middleware for validation, custom responses, and auto-documentation via Swagger.  
-**Stack:** Spring Boot, MySQL, Swagger
+### 🔐 [EasyQR – Frontend/Backend](https://easy-qr-app.vercel.app)
+> RESTful API built with clean architecture. Includes middleware for validation, custom responses, and auto-documentation via Swagger. / Responsive QR code generator with IndexedDB for local storage and offline capability. Designed for durability and offline-first experiences.
+**Stack:** Spring Boot, MySQL, Swagger, React, TypeScript, IndexedDB
 
-### 📷 EasyQR – Frontend
-> Responsive QR code generator with IndexedDB for local storage and offline capability. Designed for durability and offline-first experiences.  
-**Stack:** React, TypeScript, IndexedDB
 
 ---
 
 ## 🌐 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/jestebangonzalez/)  
-- [My Portfolio (soon)](https://yourname.vercel.app)  
-- 📬 `jestebangonzalez@protonmail.com`
+- [My Portfolio (soon)]
+- 📬 `jest.gmor@gmail.com`
 
 ---
 
